@@ -40,7 +40,7 @@
     "eslint-config-google": "^0.7.1",
     "imageoptim-cli": "^1.14.8",
     "mkdirp": "^0.5.1",
-    "node-sass": "^3.10.0",
+    "node-sass": "^4.14.1",
     "parallelshell": "^2.0.0",
     "rollup": "^0.36.0",
     "rollup-plugin-cleanup": "^0.1.4",
